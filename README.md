@@ -1,1 +1,1 @@
-# Divide-Replace-and-Defend-Defense-Against-Adversarial-Attacks
+# Divide Replace and Defend: Defense Against Adversarial Attacks
